@@ -29,7 +29,7 @@ Design a low-cost, wireless, and deployable edge solution that:
 
 ##  Demo Video
 
-▶️ [Watch Demo (Google Drive)](https://drive.google.com/)
+▶️ [Watch Demo (Google Drive)](https://drive.google.com/file/d/1sDhG_0EkpA2Ef8wuL2IHMrGJysLdMkpt/view)
 
 ---
 
