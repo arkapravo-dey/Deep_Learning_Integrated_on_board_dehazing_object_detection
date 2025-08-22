@@ -1,4 +1,4 @@
-# Web App Driven Wireless Standalone Hardware for Robust Image Restoration and Object Detection in Hazy Conditions
+# Web App Driven Wireless Standalone Hardware for Robust Image Restoration and Object Detection in Hazy Conditions(by Team PRISM_NITR : Arkapravo Dey and Shiladitya Mondal)
 
 ### A Raspberry Pi–Powered Edge AI System
 
