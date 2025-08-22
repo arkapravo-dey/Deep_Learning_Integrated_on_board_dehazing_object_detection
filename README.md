@@ -35,5 +35,5 @@ Design a low-cost, wireless, and deployable edge solution that:
 
 ##  Code Availability
 
-> The source code is not shared publicly due to privacy constraints.  
-> Please contact the authors for academic or collaborative purposes.
+> The source code will be released after the patent process is completed.  
+> Interested researchers may contact the authors for academic or collaborative purposes.
